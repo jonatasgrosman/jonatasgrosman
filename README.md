@@ -1,6 +1,6 @@
 Hi there :wave: ! My name is Jonatas Grosman
 
-I'm just a developer that loves to code and build useful things :nerd_face:
+I'm just a geek that loves to build useful things :nerd_face:
 
 <!--
 I really like :coffee:, so if any of the projects I developed saved your day and you wanna thank me, you can...
