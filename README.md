@@ -1,4 +1,4 @@
-Hi there :wave: ! My name is Jonatas Grosman
+Hi there :wave: ! My name is Jonatas Grosman.
 
 I'm just a geek that loves to build useful things :nerd_face:
 
