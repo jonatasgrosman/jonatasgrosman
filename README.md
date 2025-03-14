@@ -1,6 +1,7 @@
 Hi there :wave: ! My name is Jonatas Grosman.
 
-I'm just a Brazilian geek who loves to build useful things :)
+I'm just a curious Brazilian who loves to build useful things :)
+
 <!--
 I really like :coffee:, so if any of the projects I developed saved your day and you wanna thank me, you can...
 
