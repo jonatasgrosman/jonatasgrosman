@@ -1,5 +1,3 @@
-Hi there :wave: ! My name is Jonatas Grosman.
-
 I'm just a curious Brazilian who loves to build useful things :)
 
 <!--
